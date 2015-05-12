@@ -3,5 +3,7 @@
 
 This is test ~~
 
-read me file changed now !!
+old text deleted
+
+new text inserted
 
